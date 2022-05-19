@@ -1,0 +1,54 @@
+nav ul li{
+    display: inline-flex;
+    padding:5%;
+   
+    
+}
+.head{
+    margin-left: 50%;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}   
+.sentence h1{
+   margin-top: -10%; 
+   margin-left: 40%;
+   color: #1B0140;
+}
+.sentence p{
+    margin-left: 40%;
+}
+.sentence h3{
+    margin-left: 40%;
+    color: #1B0140;
+}
+.sentence{
+    margin-right: 30%;
+    margin-top: -15%;
+    color:rgb(243, 243, 213);
+}
+ 
+
+body{
+    background-color:#6805F2;
+    
+}
+.image-2 img{
+    margin-left: 50%;
+   margin-top: -30%;
+
+}
+.Images{
+    display: flex;
+    margin-left: 2.5%;
+    margin-top: 5%;
+}
+.Images-two{
+    display: flex;
+    margin-left: 2.5%;
+}
+
+
+

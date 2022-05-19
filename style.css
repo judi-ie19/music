@@ -1,0 +1,45 @@
+nav ul li{
+ display:inline-flex;
+ padding: 7%;
+ 
+
+}
+.header{
+    margin-left: 50%;
+    /* text-decoration: none; */
+    
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    
+}
+body{
+    background-image: url(oh\ my\ Goooshhh.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sound{
+    font-size: 40px;
+}
+.Listen{
+    margin-left: 70%;
+    margin-top: -10%;
+    font-size: 30PX;
+}
+.icons{
+    margin-left: 68%;
+     margin-top: -14%; 
+    text-align: center;
+    
+    font-size: 25px;
+    border: 2px solid palevioletred;
+    height:50PX ;
+    width: 50px;
+    border-radius: 300%;
+    background-color: palevioletred;
+}
+
+
+    
